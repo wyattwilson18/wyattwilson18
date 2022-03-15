@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wyattwilson18
 - 👀 I’m interested in becoming a moderator in a Virtual Reality setting
-- 🌱 I’m currently learning cs50, unity 3d, C, Python, CSS
+- 🌱 I’m currently learning cs50, unity 3D, wordpress, and Procreate
 - 💞️ I’m looking to collaborate on projects that will help me devolp the skills needed to be competive in the market.
 - 📫 Reach me at Wyattwilson18@gmail.com
 
